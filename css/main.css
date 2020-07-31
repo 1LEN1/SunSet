@@ -30,16 +30,17 @@ body{
 	top: 50px;
 	align-content: space-between;
 }
+
+.sunset {
+	margin: 0px 0px 0px 0px;
+	transform: rotate(-90deg);
+}
 .long {
 	position: fixed;
 	margin: 500px 0px 0px 0px;
 	transform: rotate(-90deg);
 	text-transform: capitalize;
 	overflow: hidden;
-}
-.sunset {
-	margin: 0px 0px 0px 0px;
-	transform: rotate(-90deg);
 }
 .cifri {
 	color: #ffffff;

@@ -12,15 +12,6 @@ body{
 	padding: 50px 0px 0px 0px;
 	position: relative;
 }
-@media (max-width: 898px){
-	.container{
-		width: 100%;
-	}
-	body{
-		/**/
-		background-image: linear-gradient(to right, rgba(96,143,204,1) 0%, rgba(28,55,122,1) 100%);;
-	}
-}
 
 .left {
 	color: #fff;
@@ -64,6 +55,12 @@ body{
 	background-image: linear-gradient(to right, rgba(108,151,219,1) 0%, rgba(60,95,161,1) 100%);
 }
 @media( max-width: 898px){
+	.container{
+		width: 100%;
+	}
+	body{
+		background-image: linear-gradient(to right, rgba(96,143,204,1) 0%, rgba(28,55,122,1) 100%);;
+	}
 	.container-2{
 		transition: 0.5s;
 		max-width: 50vw;
@@ -92,7 +89,7 @@ body{
 	}
 	.long {
 		font-size: 0.75em;
-		margin: 65vh 0px 0px 0px;
+		margin: 60% 0px 0px 0px;
 	}
 	.cifri {
 		font-size: 2em;

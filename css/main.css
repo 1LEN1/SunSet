@@ -9,7 +9,7 @@ body{
 	max-width: 900px;
 	height: 150vh;
 	background: linear-gradient(to right, rgba(96,143,204,1) 0%, rgba(28,55,122,1) 100%);
-	background: linear-webkit-gradientght, rgba(96,143,204,1) 0%, rgba(28,55,122,1) 100%);
+	background:  -webkit-gradient(to right, rgba(96,143,204,1) 0%, rgba(28,55,122,1) 100%);
 	padding: 50px 0px 0px 0px;
 	position: relative;
 }
@@ -106,7 +106,7 @@ body{
 	border-radius: 250px 250px 0 0;
 	box-shadow: 32px -16px 23px -15px rgba(0,0,0,0.75);
 	background: linear-gradient(to right, rgba(159,176,219,1) 0%, rgba(91,117,168,1) 100%);
-	background: linear-webkit-gradientght, rgba(159,176,219,1) 0%, rgba(91,117,168,1) 100%);
+	background:  -webkit-gradient(to right, rgba(159,176,219,1) 0%, rgba(91,117,168,1) 100%);
 }
 .container-4 {
 	width: 250px;
@@ -116,7 +116,7 @@ body{
 	border-radius: 250px 250px 0 0;
 	box-shadow: 32px -16px 23px -15px rgba(0,0,0,0.75);
 	background: linear-gradient(to right, #ccc1cf 0%, #988fa2 100%);
-	background: linear-webkit-gradientght, #ccc1cf 0%, #988fa2 100%);
+	background:  -webkit-gradient(to right, #ccc1cf 0%, #988fa2 100%);
 }
 .container-5 {
 	width: 150px;
@@ -126,7 +126,7 @@ body{
 	border-radius: 250px 250px 0 0;
 	box-shadow: 32px -16px 23px -15px rgba(0,0,0,0.75);
 	background: linear-gradient(to right, #ceb0a6 0%, #93675c 100%);
-	background: linear-webkit-gradientght, #ceb0a6 0%, #93675c 100%);
+	background:  -webkit-gradient(to right, #ceb0a6 0%, #93675c 100%);
 }
 .container-6 {
 	width: 50px;
@@ -136,5 +136,5 @@ body{
 	border-radius: 250px 250px 0 0;
 	box-shadow: 32px -16px 23px -15px rgba(0,0,0,0.75);
 	background: linear-gradient(to right, #c2837e 0%, #b96d6d 100%);
-	background: linear-webkit-gradientght, #c2837e 0%, #b96d6d 100%);
--webkit-gradient
+	background:  -webkit-gradient(to right, #c2837e 0%, #b96d6d 100%);
+}
